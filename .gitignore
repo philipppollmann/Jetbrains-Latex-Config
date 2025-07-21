@@ -11,6 +11,10 @@
 *.cb
 *.cb2
 .*.lb
+out
+main.aux
+main.log
+main.out
 
 ## Intermediate documents:
 *.dvi
